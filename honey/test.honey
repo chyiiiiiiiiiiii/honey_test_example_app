@@ -1,0 +1,17 @@
+verify that "0" is visible
+
+tap "Increment" button
+
+verify that "1" is visible
+
+click "Increment"  button
+
+make sure that "2" is visible
+expect that "3" is not visible
+
+click "Second" button
+
+expect that "Second" is visible
+expect that "Hello world" is visible
+
+click button
