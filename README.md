@@ -4,6 +4,9 @@
 
 Honey e2e testing is an awesome package. After I tried it for a while, I feel it was so easy and helpful for developers, and even not programmers. Just use common sentences and complete them.  Now I will keep following Honey and expect the improvement of new versions.
 
+## Article
+[了解剛出爐的 Honey E2E Testing，不是開發者也能幫忙寫 Flutter 測試！](https://medium.com/flutter-formosa/了解剛出爐的-honey-e2e-testing-不是開發者也能幫忙寫-flutter-測試-5ab41d6e4634)
+
 ## Demo
 
 <img src="./demo/demo.png" />
