@@ -2,6 +2,14 @@
 
 <img src="./cover.png" />
 
+<p align="center">
+  <a href=""><img alt="Flutter" src="https://img.shields.io/badge/Flutter-Lover-blue?style=flat&logo=flutter"/></a>
+  &nbsp
+  <a href="https://medium.com/@yiichenhi"><img alt="Medium" src="https://img.shields.io/badge/Medium-Yii%20Chen-black?style=flat&logo=Medium"/></a>
+  &nbsp
+  <a href=""><img alt="" src="https://img.shields.io/github/followers/chyiiiiiiiiiiii?style=social"/></a>
+</p>
+
 Honey e2e testing is an awesome package. After I tried it for a while, I feel it was so easy and helpful for developers, and even not programmers. Just use common sentences and complete them.  Now I will keep following Honey and expect the improvement of new versions.
 
 ## Article
