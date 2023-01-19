@@ -21,9 +21,6 @@ Honey e2e testing is an awesome package. After I tried it for a while, I feel it
 <img src="./demo/demo_2.png" />
 <img src="./demo/demo_3.png" />
 
-## Weakness
-- Common operations do not have enough keywords for testing, like scrolling.
-
 ## Contribute
 - You can star and share with other developers if you feel good and learn something from this repository.
 - If you have some ideas, please discuss them with me or commit PR.
